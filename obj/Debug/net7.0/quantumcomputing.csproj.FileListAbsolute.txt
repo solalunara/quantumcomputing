@@ -1,0 +1,17 @@
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/quantumcomputing
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/quantumcomputing.deps.json
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/quantumcomputing.runtimeconfig.json
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/quantumcomputing.dll
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/quantumcomputing.pdb
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.csproj.AssemblyReference.cache
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.GeneratedMSBuildEditorConfig.editorconfig
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.AssemblyInfoInputs.cache
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.AssemblyInfo.cs
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.csproj.CoreCompileInputs.cache
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.dll
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/refint/quantumcomputing.dll
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.pdb
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.genruntimeconfig.cache
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/ref/quantumcomputing.dll
+/home/fvp/prog/quantumcomputing/bin/Debug/net7.0/MathNet.Numerics.dll
+/home/fvp/prog/quantumcomputing/obj/Debug/net7.0/quantumcomputing.csproj.CopyComplete

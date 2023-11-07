@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vb6TFi1Pas5XudVuicPJ1x9HQK1YUii6yodQ4Lc+F9hH69BuSJgpoB+Ud+IvJ9VJVudHS9Bzoy8IgS1U8fOqAg==",
+  "success": true,
+  "projectFilePath": "/home/fvp/prog/quantumcomputing/quantumcomputing.csproj",
+  "expectedPackageFiles": [
+    "/home/fvp/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/home/fvp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
